@@ -1,0 +1,17 @@
+{
+  "hackerrank": {
+    "solved": 1,
+    "easy": 1,
+    "medium": 0,
+    "hard": 0,
+    "unknown": 0,
+    "shas": {
+      "find-second-maximum-number-in-a-list": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "Pypy 3",
+        "date": "2026-10-26T06:15:15.057Z"
+      }
+    }
+  }
+}
