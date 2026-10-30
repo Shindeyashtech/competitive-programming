@@ -1,7 +1,7 @@
 {
   "hackerrank": {
-    "solved": 1,
-    "easy": 1,
+    "solved": 2,
+    "easy": 2,
     "medium": 0,
     "hard": 0,
     "unknown": 0,
@@ -11,6 +11,12 @@
         "category": "easy",
         "language": "Pypy 3",
         "date": "2026-10-26T06:15:15.057Z"
+      },
+      "basics-of-sets-and-relational-algebra-1": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "Language: Plain Text",
+        "date": "2026-10-30T07:11:07.948Z"
       }
     }
   }
